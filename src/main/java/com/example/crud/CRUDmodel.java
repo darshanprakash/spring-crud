@@ -15,7 +15,7 @@ import org.hibernate.type.SqlTypes;
 import java.util.Map;
 
 @Entity
-@Table(name="crud", schema = "los")
+@Table(name="crud")
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
